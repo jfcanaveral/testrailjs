@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jfcanaveral/testrailjs/issues"
   },
-  "homepage": "https://github.com/jfcanaveral/testrailjs"
+  "homepage": "https://github.com/jfcanaveral/testrailjs",
+  "dependencies": {
+    "winston": "^0.8.1"
+  }
 }
