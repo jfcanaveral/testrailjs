@@ -3,7 +3,7 @@
 var request = require('request');
 var _ = require('lodash');
 var q = require('q');
-var logger = require('./logger.js');
+var logger = require('./helpers/logger.js');
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
